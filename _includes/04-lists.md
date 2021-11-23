@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. make a markdown portfolio
+* adding ordered and unordered lists
+  * and this is an unordered list
